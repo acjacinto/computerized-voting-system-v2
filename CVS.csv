@@ -1,0 +1,258 @@
+id,StudentNumber,Name,Surname,Course,Year,Password,Status
+1,170248,Albert,Agapay,BSCS,1,000000,Not_Voted
+2,170454,"Dennise Grant",Aleganza,BSCS,1," ",Not_Voted
+3,170239,Jayvee,Alzaga,BSCS,1," ",Not_Voted
+4,160192,Donnatelo,Ambus,BSCS,1," ",Not_Voted
+5,170292,Scotthy,Ayong,BSCS,1," ",Not_Voted
+6,170533,"Kier Jahziel",Baltazar,BSCS,1," ",Not_Voted
+7,170505,"Karl Jefferson",Burgos,BSCS,1," ",Not_Voted
+8,170341,Christian,Cayunda,BSCS,1," ",Not_Voted
+9,170422,"Roel Gerome",Delgado,BSCS,1," ",Not_Voted
+10,170486,"Jorge Dhan",Dimailig,BSCS,1," ",Not_Voted
+11,170387,"Renz Joey",Encomienda,BSCS,1," ",Not_Voted
+12,170548,Jade,Flores,BSCS,1," ",Not_Voted
+13,170227,"William Anthony",Galacio,BSCS,1," ",Not_Voted
+14,170059,Crispin,Galit,BSCS,1," ",Not_Voted
+15,170630,"Christian David",Gilber,BSCS,1," ",Not_Voted
+16,170432,Orlando,"Japson Jr.",BSCS,1," ",Not_Voted
+17,170482,James,Macaalay,BSCS,1," ",Not_Voted
+18,170145,Ismael,Macelisa,BSCS,1," ",Not_Voted
+19,170582,"Alfred Joshua",Magada,BSCS,1," ",Not_Voted
+20,170487,Eduardo,Masungsong,BSCS,1," ",Not_Voted
+21,151640,"Justin Royce",Mendoza,BSCS,1," ",Not_Voted
+22,150524,Ranilo,Mendoza,BSCS,1," ",Not_Voted
+23,170402,Jonathan,Nuñez,BSCS,1," ",Not_Voted
+24,170394,"John Keann",Ombao,BSCS,1," ",Not_Voted
+25,170472,Julyne,Padrigon,BSCS,1," ",Not_Voted
+26,170315,Richard,Palomar,BSCS,1," ",Not_Voted
+27,170126,"Arcadio III",Panaligan,BSCS,1," ",Not_Voted
+28,151296,Markley,Petallar,BSCS,1," ",Not_Voted
+29,160738,Alexander,Ponce,BSCS,1," ",Not_Voted
+30,170616,"Richard Earl",Recentes,BSCS,1," ",Not_Voted
+31,170519,Kim,Reodava,BSCS,1," ",Not_Voted
+32,170293,"Christopher Kent",Reyes,BSCS,1," ",Not_Voted
+33,170654,Anthony,"Roxas Jr.",BSCS,1," ",Not_Voted
+34,170132,Mico,Santos,BSCS,1," ",Not_Voted
+35,170433,"Patrick Jayson",Songalia,BSCS,1," ",Not_Voted
+36,170197,Johncep,Tugot,BSCS,1," ",Not_Voted
+37,170057,"Gean Carlo",Veleta,BSCS,1," ",Not_Voted
+38,170107,Jhomar,Vergara,BSCS,1," ",Not_Voted
+39,170131,Sammy,Zabala,BSCS,1," ",Not_Voted
+40,160188,Rose-ann,Abrenica,BSCS,1," ",Not_Voted
+41,170564,"May Ann",Cajes,BSCS,1," ",Not_Voted
+42,170205,"Mary Grace",Cijas,BSCS,1," ",Not_Voted
+43,170199,Renelene,Compas,BSCS,1," ",Not_Voted
+44,170642,Jeathelle,"Dela Cruz",BSCS,1," ",Not_Voted
+45,170146,Rea,Salvador,BSCS,1," ",Not_Voted
+46,170134,Dianne,Umandap,BSCS,1," ",Not_Voted
+47,160446,"John Christopher",Alicando,BSCS,2," ",Not_Voted
+48,11073772,"Kim Juannie",Baltazar,BSCS,2," ",Not_Voted
+49,160159,Angelito,Bautista,BSCS,2," ",Not_Voted
+50,160677,"John Erick",Belen,BSCS,2," ",Not_Voted
+51,160117,"Genesis Joman",Benegas,BSCS,2," ",Not_Voted
+52,160537,Joshua,Bernal,BSCS,2," ",Not_Voted
+53,160280,Adonis,"Borbe Jr.",BSCS,2," ",Not_Voted
+54,160263,"John Racel",Briones,BSCS,2," ",Not_Voted
+55,09020990,Jaime,Calipay,BSCS,2," ",Not_Voted
+56,160399,"Yazer Ysaac",Cedeño,BSCS,2," ",Not_Voted
+57,160203,"Rojohn Michael","De Guzman",BSCS,2," ",Not_Voted
+58,160520,"Ed Alexander",Fernandez,BSCS,2," ",Not_Voted
+59,160789,Glendle,Li,BSCS,2," ",Not_Voted
+60,160557,"Jayson Paul",Magdato,BSCS,2," ",Not_Voted
+61,160645,Marlou,Mampusti,BSCS,2," ",Not_Voted
+62,160409,Jefferson,Manuel,BSCS,2," ",Not_Voted
+63,160122,Reister,Martinez,BSCS,2," ",Not_Voted
+64,141512,"Mark Gerald",Milan,BSCS,2," ",Not_Voted
+65,150484,"Reyster Kenneth",Santos,BSCS,2," ",Not_Voted
+66,160519,"Aivan Roi",Teodoro,BSCS,2," ",Not_Voted
+67,160206,Reymel,Tumutong,BSCS,2," ",Not_Voted
+68,160599,"Den Mark",Villegas,BSCS,2," ",Not_Voted
+69,150074,Criesel,Armario,BSCS,2," ",Not_Voted
+70,160499,"Myra Shiela",Balanlayos,BSCS,2," ",Not_Voted
+71,151460,"Christine Haizel",Cabancla,BSCS,2," ",Not_Voted
+72,160735,Judy,"De Paz",BSCS,2," ",Not_Voted
+73,151788,"Aska Joy",Esporton,BSCS,2," ",Not_Voted
+74,160228,Leonor,Hamisola,BSCS,2," ",Not_Voted
+75,151662,Arseli,Inductivo,BSCS,2," ",Not_Voted
+76,160279,"Mae Ann",Tusoy,BSCS,2," ",Not_Voted
+77,151504,Danilo,"Alinsod Jr.",BSCS,3," ",Not_Voted
+78,151269,Medjugorje,Bituin,BSCS,3," ",Not_Voted
+79,150695,Jessie,Boniel,BSCS,3," ",Not_Voted
+80,141480,Jericson,Bugayong,BSCS,3," ",Not_Voted
+81,151690,"Mark Jonathan",Dagamac,BSCS,3," ",Not_Voted
+82,150718,Leogie,"Dela Peña",BSCS,3," ",Not_Voted
+83,140527,"Jonathan Deil",Dorado,BSCS,3," ",Not_Voted
+84,150208,"Roehl Kristian",Dura,BSCS,3," ",Not_Voted
+85,150062,"Ace Carlos",Elbo,BSCS,3," ",Not_Voted
+86,160713,"Rene Emmanuel",Espeña,BSCS,3," ",Not_Voted
+87,151663,"Mc Pherson",Forteza,BSCS,3," ",Not_Voted
+88,151617,Aldrin,Gelena,BSCS,3," ",Not_Voted
+89,150418,Melchisedec,Golimlim,BSCS,3," ",Not_Voted
+90,151576,Jerome,Luna,BSCS,3," ",Not_Voted
+91,150181,Carlito,"Marasigan Jr.",BSCS,3," ",Not_Voted
+92,140918,"Rodrigo Jr.",Mariano,BSCS,3," ",Not_Voted
+93,141369,"Carl Joshua",Perez,BSCS,3," ",Not_Voted
+94,151461,Jeffrey,Salomon,BSCS,3," ",Not_Voted
+95,151421,Alphie,Sanchez,BSCS,3," ",Not_Voted
+96,151673,Jude,Seiton,BSCS,3," ",Not_Voted
+97,141447,"Sherwin Ramski",Serviento,BSCS,3," ",Not_Voted
+98,151572,"Aldrin Neil",Torres,BSCS,3," ",Not_Voted
+99,150320,Jaebeth,Alon,BSCS,3," ",Not_Voted
+100,150338,Xina,Astorga,BSCS,3,,Not_Voted
+101,150353,Princess,Avenido,BSCS,3,,Not_Voted
+102,120475,Michelle,Banzales,BSCS,3,,Not_Voted
+103,150726,Jeraldine,Bauso,BSCS,3,,Not_Voted
+104,151462,"Ma. Angelika",Bautista,BSCS,3,,Not_Voted
+105,151650,"Dalyn Rose",Billona,BSCS,3,,Not_Voted
+106,150848,"Jean Mae",Copita,BSCS,3,,Not_Voted
+107,150362,Joanna,Coste,BSCS,3,,Not_Voted
+108,150330,Jeneth,Delima,BSCS,3,,Not_Voted
+109,150329,"Ma Joy",Evangelista,BSCS,3,,Not_Voted
+110,150628,"Alyda Caye",Jacinto,BSCS,3,0000,Not_Voted
+111,150869,Honeylae,Jamilla,BSCS,3,,Not_Voted
+112,150574,Ronielyn,Jolampong,BSCS,3,,Not_Voted
+113,150080,Elizabeth,Lora,BSCS,3,,Not_Voted
+114,151325,Catrina,Lorenzo,BSCS,3,,Not_Voted
+115,151430,"Baby Rose",Macinas,BSCS,3,,Not_Voted
+116,151601,Jelly,Mahilum,BSCS,3,,Not_Voted
+117,150831,"Cherry Mae",Oreo,BSCS,3,,Not_Voted
+118,151628,"Shielyn Donna",Pablo,BSCS,3,,Not_Voted
+119,151530,"Jowenah Joy",Seño,BSCS,3,,Not_Voted
+120,120597,"Efren Jr.",Abejo,BSCS,4,,Not_Voted
+121,140186,"Brian John",Alfelor,BSCS,4,,Not_Voted
+122,141259,Bernie,Baltazar,BSCS,4,,Not_Voted
+123,140108,Aljohn,Bautista,BSCS,4,,Not_Voted
+124,141439,"Paul Allan",Boncolmo,BSCS,4,,Not_Voted
+125,140842,Joseph,Bonos,BSCS,4,,Not_Voted
+126,120335,"Jeth Cyril",Bulauan,BSCS,4,,Not_Voted
+127,140927,Jerome,Dayauon,BSCS,4,,Not_Voted
+128,141429,Alfonso,Flores,BSCS,4,,Not_Voted
+129,140928,"John Lloyd",Gelilio,BSCS,4,,Not_Voted
+130,141316,Jimmy,"Gonzales Jr.",BSCS,4,,Not_Voted
+131,140620,Alexis,Gonzales,BSCS,4,,Not_Voted
+132,10031861,Nilo,Guerrero,BSCS,4,,Not_Voted
+133,140066,Juhnroe,Gutierrez,BSCS,4,,Not_Voted
+134,120554,Rustom,Jimenez,BSCS,4,,Not_Voted
+135,131369,Ricky,Lego,BSCS,4,,Not_Voted
+136,140763,"Kurt Jayson",Macapagal,BSCS,4,,Not_Voted
+137,140583,"John Robin",Nanagad,BSCS,4,,Not_Voted
+138,141002,"Mark Jhoseph",Nartea,BSCS,4,,Not_Voted
+139,141197,"John Vince",Nazareno,BSCS,4,,Not_Voted
+140,141300,"Rojen Keith",Palestroque,BSCS,4,,Not_Voted
+141,130360,Eugine,Princesa,BSCS,4,,Not_Voted
+142,141378,"Julius Carlo",Punay,BSCS,4,,Not_Voted
+143,130723,"Mark Christian",Raner,BSCS,4,,Not_Voted
+144,140702,Jeffrey,Ranido,BSCS,4,,Not_Voted
+145,130168,Chad,Tagaro,BSCS,4,,Not_Voted
+146,140195,Salem,Usman,BSCS,4,,Not_Voted
+147,140239,Nikko,Villero,BSCS,4,,Not_Voted
+148,140044,"Cyrine Joy",Adonis,BSCS,4,,Not_Voted
+149,140576,Riosselle,Andaya,BSCS,4,,Not_Voted
+150,120947,"Jinky Ann",Arro,BSCS,4,,Not_Voted
+151,141045,Sarah,Austero,BSCS,4,,Not_Voted
+152,140319,Pinky,Balagat,BSCS,4,,Not_Voted
+153,130878,"Mae Arrahzel",Benzon,BSCS,4,,Not_Voted
+154,140156,"Arvy Rose",Cabinan,BSCS,4,,Not_Voted
+155,140106,Bernadeth,Costanza,BSCS,4,,Not_Voted
+156,141398,"Mae Angelie",Diama,BSCS,4,,Not_Voted
+157,141365,"Princess Emmanuelle",Espiel,BSCS,4,,Not_Voted
+158,141203,Lorivel,Fabaleña,BSCS,4,,Not_Voted
+159,140328,Zhaney,Fiel,BSCS,4,,Not_Voted
+160,141335,Arlene,Habil,BSCS,4,,Not_Voted
+161,141204,"Joanna Marie",Namia,BSCS,4,,Not_Voted
+162,140375,Joyce,Nistal,BSCS,4,,Not_Voted
+163,140292,Rechel,Orcullo,BSCS,4,,Not_Voted
+164,140981,"Rachel Gay",Pastores,BSCS,4,,Not_Voted
+165,11033621,Gellen,Rocha,BSCS,4,,Not_Voted
+166,140677,Dana,Tamondong,BSCS,4,,Not_Voted
+167,160120,Crenz,Avendaño,BSCT,2,,Not_Voted
+168,151776,Joseph,Brusas,BSCT,2,,Not_Voted
+169,140986,Teddy,Brutas,BSCT,2,,Not_Voted
+170,160503,Jhimuel,Cabas,BSCT,2,,Not_Voted
+171,160440,"Earl Monroe",Cabrera,BSCT,2,,Not_Voted
+172,160194,J-ron,Cajefe,BSCT,2,,Not_Voted
+173,151051,Bryan,Castillo,BSCT,2,,Not_Voted
+174,150060,"Hammer Jhon",Francis,BSCT,2,,Not_Voted
+175,151526,"John Carlo",Gayem,BSCT,2,,Not_Voted
+176,160172,"John Paul",Maglaque,BSCT,2,,Not_Voted
+177,160524,Albert,Oyzon,BSCT,2,,Not_Voted
+178,160710,"James Ryan",Padilla,BSCT,2,,Not_Voted
+179,160270,Gabriel,Ruelo,BSCT,2,,Not_Voted
+180,160156,Jayson,Sabusap,BSCT,2,,Not_Voted
+181,140868,Teofisto,Sarambao,BSCT,2,,Not_Voted
+182,151535,Rodel,Tapia,BSCT,2,,Not_Voted
+183,160184,"Prince Rexian",Tatel,BSCT,2,,Not_Voted
+184,160233,Kim,Yohanon,BSCT,2,,Not_Voted
+185,160374,"Mara Margarita",Guitoria,BSCT,2,,Not_Voted
+186,151419,Viva,Zapata,BSCT,2,,Not_Voted
+187,150597,"Justine Red",Asuncion,BSCT,3,,Not_Voted
+188,141625,Raymond,Bacarrisas,BSCT,3,,Not_Voted
+189,151515,Renzo,Batungbakal,BSCT,3,0809,Done_Voting
+190,151458,Joemar,Corros,BSCT,3,,Not_Voted
+191,150947,"Raymund Justine",Datoc,BSCT,3,,Not_Voted
+192,151433,"Paul Tom","De Veyra",BSCT,3,,Not_Voted
+193,150479,Erwin,Felicen,BSCT,3,,Not_Voted
+194,151154,"Daniel Jr.",Flores,BSCT,3,,Not_Voted
+195,151343,Jasper,Francisco,BSCT,3,,Not_Voted
+196,151513,"Mark Karlo",Magat,BSCT,3,,Not_Voted
+197,150880,"Kevin Neil",Mapa,BSCT,3,,Not_Voted
+198,150220,Nilo,"Muring Jr.",BSCT,3,,Not_Voted
+199,151471,"John Lyndon",Nacua,BSCT,3,,Not_Voted
+200,151387,"John Khelvin",Pallarca,BSCT,3,,Not_Voted
+201,150359,"John Roland",Rodelas,BSCT,3,,Not_Voted
+202,151194,Mike,Villa,BSCT,3,,Not_Voted
+203,151532,"Hanna Perrine",Almado,BSCT,3,,Not_Voted
+204,151531,Mira,Caballes,BSCT,3,,Not_Voted
+205,151503,"Mary Joy",Nabor,BSCT,3,,Not_Voted
+206,150561,Ranzelle,Nollora,BSCT,3,,Not_Voted
+207,151401,Abegail,Urbano,BSCT,3,,Not_Voted
+208,141154,"Mary Jezaneliene",Villegas,BSCT,3,,Not_Voted
+209,131172,"Van Eimeren",Bestmonte,BSCT,4,,Not_Voted
+210,151046,Vhilly,"De Chavez",BSCT,2,,Not_Voted
+211,141060,"Carl Angelo",Mosca,BSCT,2,,Not_Voted
+212,130241,"John Paul",Ortiz,BSCT,2,,Not_Voted
+213,141662,"Ciara Alyssa",Peñafiel,BSCT,2,,Not_Voted
+214,150610,"Adolfo Elias",Abada,BSCT,3,,Not_Voted
+215,11153267,Abelardo,Adizas,BSCT,3,,Not_Voted
+216,151550,Jaynard,Cafe,BSCT,3,,Not_Voted
+217,130115,Kenneth,Canada,BSCT,3,,Not_Voted
+218,130500,Ericson,Erfe,BSCT,3,,Not_Voted
+219,140776,"Lexfil Adrianne",Historia,BSCT,3,,Not_Voted
+220,130419,Almario,Ladica,BSCT,3,,Not_Voted
+221,140616,Jecardo,Nocito,BSCT,3,,Not_Voted
+222,131045,"Kaizen Jairek",Vergara,BSCT,3,,Not_Voted
+223,141433,"Rea Marie",Pelinio,BSCT,3,,Not_Voted
+224,130729,Joshua,Abueva,BSCT,4,,Not_Voted
+225,140136,Joshua,Alde,BSCT,4,,Not_Voted
+226,131167,"Vj Emil",Antones,BSCT,4,,Not_Voted
+227,140430,Bryan,Bogtong,BSCT,4,,Not_Voted
+228,140180,"Mark Glence",Boniel,BSCT,4,,Not_Voted
+229,140371,"Jhon Anthony",Calderon,BSCT,4,,Not_Voted
+230,140525,Eduardo,"Carbon Jr.",BSCT,4,,Not_Voted
+231,140090,Eugene,Cortez,BSCT,4,,Not_Voted
+232,140426,Jhimlo,Ducay,BSCT,4,,Not_Voted
+233,120960,"Michael Franco",Espinosa,BSCT,4,,Not_Voted
+234,141138,"Mark Anthony",Gonzaga,BSCT,4,,Not_Voted
+235,131043,Arjay,Gura,BSCT,4,,Not_Voted
+236,140697,Christian,Ilogon,BSCT,4,,Not_Voted
+237,140332,"Rence Micheal",Lanuza,BSCT,4,,Not_Voted
+238,141137,"Anthony John",Manapat,BSCT,4,,Not_Voted
+239,140363,"Jan Jan",Marca,BSCT,4,,Not_Voted
+240,140345,Marloun,Morales,BSCT,4,,Not_Voted
+241,140567,"Manuel Jr.",Nacion,BSCT,4,,Not_Voted
+242,140550,Emmanuelito,Pagador,BSCT,4,,Not_Voted
+243,141159,"John Kenneth",Pallarca,BSCT,4,,Not_Voted
+244,140141,Tomas,"Pestaño Jr.",BSCT,4,,Not_Voted
+245,11073477,"Kim Roland",Quiras,BSCT,4,,Not_Voted
+246,130744,Leomar,Ramos,BSCT,4,,Not_Voted
+247,140992,Richard,Regaspi,BSCT,4,,Not_Voted
+248,141217,"Marvin Jay",Sagdullas,BSCT,4,,Not_Voted
+249,140373,"Mark Harris",Soriano,BSCT,4,,Not_Voted
+250,140660,"Mc. Egbert",Tomas,BSCT,4,,Not_Voted
+251,140287,Renelyn,Ando,BSCT,4,,Not_Voted
+252,140942,Rosana,Cabantug,BSCT,4,,Not_Voted
+253,140067,Sarah,Hilis,BSCT,4,,Not_Voted
+254,140310,Lerimay,Montero,BSCT,4,,Not_Voted
+255,130309,Maricar,Punay,BSCT,4,,Not_Voted
+256,141086,"Ivy Marie",Sabio,BSCT,4,,Not_Voted
+257,140695,Janet,Sadagnot,BSCT,4,,Not_Voted
